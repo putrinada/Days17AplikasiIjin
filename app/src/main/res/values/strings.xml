@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Days17AplikasiIjin</string>
+    <string-array name="kategori">
+        <item>Sakit</item>
+        <item>Kedukaan</item>
+        <item>Urusan Keluarga</item>
+    </string-array>
+</resources>
